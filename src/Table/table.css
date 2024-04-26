@@ -1,0 +1,43 @@
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+}
+
+ 
+
+table th , table td {
+
+    border: 1px solid black;
+
+}
+
+table th {
+
+    background-color: chocolate;
+
+    color: aliceblue;
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+ 
+
+table tr {
+
+    background-color:aquamarine;
+
+}
+
+ 
+
+table tr:hover {
+
+    background-color: chartreuse;
+
+}
